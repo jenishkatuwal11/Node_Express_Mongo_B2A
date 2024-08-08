@@ -50,6 +50,5 @@ The main project built during this course is a complete and feature-rich applica
 
 For any questions or feedback, please open an issue or contact me directly through GitHub.
 
----
-
-Happy coding!
+--------
+Thank You happy Coding
